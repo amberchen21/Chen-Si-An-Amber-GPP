@@ -52,7 +52,7 @@ The simulation ensures boundary enforcement and accurate handling of movement an
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/amberchen21/Chen-Si-An-Amber-GPP.git
-   cd Chen-Si-An-Amber-Python
+   cd Chen-Si-An-Amber-GPP
 2. **Run the Application**: 
    ```bash
    python3 car_simulation.py
