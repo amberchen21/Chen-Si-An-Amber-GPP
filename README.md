@@ -1,7 +1,4 @@
-# Chen-Si-An-Amber-Python
-# Take-Home-Coding-Assignment-GPP2027
-
-GIC Application - Take Home Coding Assignment (GPP2027)
+# GPP 2027 - Take Home Coding Assignment
 
 # Auto Driving Car Simulation
 
