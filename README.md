@@ -51,7 +51,7 @@ The simulation ensures boundary enforcement and accurate handling of movement an
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/e0968868/Chen-Si-An-Amber-Python.git
+   git clone https://github.com/amberchen21/Chen-Si-An-Amber-GPP.git
    cd Chen-Si-An-Amber-Python
 2. **Run the Application**: 
    ```bash
